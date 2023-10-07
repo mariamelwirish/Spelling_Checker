@@ -1,0 +1,1 @@
+# Spelling__Checker
